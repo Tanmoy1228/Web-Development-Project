@@ -1,1 +1,3 @@
-# Web-Development-Project-at-KUET-2014
+# Web-Development-Project
+
+I have built a website, from where anyone can learn different topics on competetive programming.
